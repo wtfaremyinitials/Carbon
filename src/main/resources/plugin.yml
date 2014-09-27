@@ -1,0 +1,6 @@
+name: Carbon
+main: net.o2gaming.carbon.Carbon
+description: Adds 1.8 blocks and features to the Spigot protocol hack.
+startup: preworld
+version: 1.4
+author: Navid K.
